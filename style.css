@@ -1,0 +1,573 @@
+.nav-1{
+    justify-content: end;
+    text-transform: capitalize;
+    font-size: 15px;
+}
+li.nav-item {
+    padding: 8px 5px;
+}
+a.nav-link {
+    color: white;
+}
+a.nav-link:hover{
+    color: #ffc107;
+}
+.btn {
+   background-color: #ffb03b;
+   color: white;
+   padding: 8px 25px;
+   border-radius: 50px;
+   font-size: 14px;
+   font-weight: 500;
+   text-transform: capitalize;
+   margin-left: 20px;
+}
+.btn:hover{
+    background-color: #ffc107;
+    color:white;
+}
+a.navbar-brand{
+        text-transform: capitalize;
+        font-size: 28px;
+        font-family: Karla;
+    }
+    .carousel-caption{
+        top:30%;
+    }
+    .carousel-caption h1 {
+        font-size: 70px;
+        text-transform: capitalize;
+        font-family: Ms Madi;
+    }
+     .carousel-caption h3 {
+        font-size: 30px;
+        text-transform: capitalize;
+        font-family: Karla;
+    }
+    .carousel-caption p{
+        font-size: 18px;
+        width: 63%;
+        text-transform: capitalize;
+        font-family: Karla;
+        margin: auto;
+    }
+  
+    .carousel-item img {
+        filter: brightness(0.5);
+    }
+    .carousal-1 img{
+        filter: none;
+    }
+    .carousel-control-next-icon, .carousel-control-prev-icon {
+        border-radius: 50px;
+        height: 34px;
+        width: 35px;
+        padding: 25px;
+        background-color:#ffb03b;
+    }
+    .image-1 img{
+            width: 100%;
+    }
+    .image-1{
+       margin-top: 100px;
+    }
+    .enjoy-food h4{
+            color:#ffb03b;
+            font-weight:800;
+            font-family: Karla;
+    }
+    .enjoy-food h1{
+            font-size: 62px;
+            font-weight: 700;
+            margin: 17px 0px;
+            font-family: Karla;
+    }
+    .enjoy-food p {
+        width: 92%;
+        color: #544d4d;
+        font-size: 17px;
+        line-height: 1.5;
+      margin-bottom: 40px;
+    }
+    button.btn-1 {
+        padding: 8px 25px;
+        text-transform: uppercase;
+        background-color:#ffb03b;
+        color: white;
+        font-weight: 600;
+        border-color: #ffb03b;
+    }
+    .image-2 img{
+        width:85%;
+    }
+    .image-2 {
+        margin-top: 85px;
+        text-align: center;
+    }
+    .heading{
+        margin-bottom: 30px;
+    }
+    .heading h2 {
+        margin: 15px 0 0 0;
+        font-size: 32px;
+        font-weight: 700;
+        color: #5f5950;
+        font-family: Karla;
+    }
+    .heading p{
+            margin: 13px 0px;
+    }
+    .square-1 span {
+        font-size: 28px;
+        font-weight: 700;
+        color: #ffcf88;
+    }
+    .square-1 h4 {
+        font-size: 24px;
+        font-weight: 600;
+        margin: 20px 0;
+        color: #6c665c;
+        font-family: Karla;
+    }
+    .square-1 {
+        padding: 50px 30px;
+        box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
+        color: #aaaaaa;
+        font-size: 15px;
+    }
+    .square-1:hover{
+            background: #ffb03b;
+            padding: 52px 30px 70px 30px;
+            box-shadow: 10px 15px 30px rgba(0, 0, 0, 0.18);
+            color: white;
+        }
+    .tab-heading h2 {
+        font-size: 32px;
+        font-weight: 700;
+        color: #5f5950;
+        text-transform: capitalize;
+        font-family: Karla;
+    }
+   
+    .menu-title-1 span{
+        font-weight:600;
+        font-size:18px;
+        padding-right: 10px;
+    }
+    ul#pills-tab {
+        justify-content: center;
+    }
+    .menu-title-1 a{
+        color: #ffb03b;
+        padding-right:10px;
+        font-weight: 700;
+        text-decoration: none;
+        font-size:18px;
+    }
+    .items{
+            font-size: 14px;
+            font-family: "Comic Neue", sans-serif;
+            color: #948c81;
+            padding-top:5px;
+    }
+    .special-highlight h2 {
+        font-size: 32px;
+        font-weight: 700;
+        color: #5f5950;
+        font-family: Karla;
+    }
+    .specail-highlight p {
+        text-transform: capitalize;
+        width: 28%;
+        margin: auto;
+    }
+    .special-list li {
+        list-style: none;
+        padding: 11px;
+        text-transform: capitalize;
+        font-size: 15px;
+        font-weight: 700;
+        font-family: Karla;
+    }
+    .indian-food h2 {
+        text-transform: capitalize;
+        font-size: 40px;
+        margin-bottom: 20px;
+        font-family: Karla;
+    }
+    .food-image img{
+            width: 75%;
+    }
+    .food-image {
+        text-align: center;
+    }
+    .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+        background-color:#ffb03b;
+        border-radius: 50px;
+        padding: 8px 21px;
+        text-transform: capitalize;
+        font-size: 14px;
+    }
+    .nav-link {
+      text-transform: capitalize;
+      color:black;
+    }
+    .nav-pills .nav-link {
+        border-radius: 50px;
+        border: 2px solid #ffb03b;
+        padding: 8px 21px;
+        font-size: 14px;
+    }
+    .nav-pills .nav-link:hover{
+        background-color: #ffb03b;
+        color: white;
+    }
+    .nav{
+        --bs-nav-link-hover-color: black;
+    }
+    #events{
+        background-image:url("images/events-bg.jpg");
+        background-size:cover;
+        background-repeat: no-repeat;
+        background-blend-mode: overlay;
+        background-color: #1e1e1e;
+        margin-top: 60px;
+    }
+    .organize-event h2{
+        padding-top:50px;
+        font-family: Karla;
+        font-size: 42px;
+    }
+    .birthday-event h1{
+        color: #ffb03b;
+        text-transform: capitalize;
+        font-family: Karla;
+    }
+    .birthday-event p{
+            padding: 10px 0px;
+            width: 80%;
+            line-height:1.5;
+        }
+    .birthday-event span {
+        font-weight: 600;
+        font-size: 30px;
+    }
+    .birthday-list li{
+            padding: 8px 0px;
+            list-style: none;
+    }
+    .icon {
+        margin-right: 10px;
+        color: #ffb03b;
+        font-size: 20px;
+    }
+    .party-para p {
+        padding: 20px 0px;
+        line-height: 1.5;
+    }
+    .table-book h2{
+        font-family: Karla;
+        font-size: 32px;
+        font-weight: 700;
+       color: #5f5950;
+    }
+    .table-book p{
+            width: 37%;
+            margin: auto;
+            padding: 10px 0px;
+        }
+        .form-1{
+                box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
+                padding: 30px;
+                background: #fff;
+            }
+    
+        button.btn.msg-btn {
+            background-color:#ffb03b;
+            padding: 8px 25px;
+            font-size: 18px;
+            color: white;
+        }
+        .photos{
+            overflow: hidden;
+            margin-top: 15px;
+        }
+        .photos img{
+            width:100%;
+            -webkit-transform: scale(1);
+	        transform: scale(1);
+	        -webkit-transition: .3s ease-in-out;
+	         transition: .3s ease-in-out;
+             z-index: 1;
+             position: relative;
+        }
+        .photos img:hover{
+            -webkit-transform: scale(1.3);
+	         transform: scale(1.3);
+             z-index:2;
+             
+        }
+       
+        .container.chef-cont {
+            margin-top: -30px;
+        }
+        .gallery-heading h2{
+            font-family:karla;
+            text-transform: capitalize;
+            font-size: 32px;
+            font-weight: 700;
+           color: #5f5950;
+        }
+        #our-chefs{
+            background-image: url("images/chefs-bg.jpg");
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-blend-mode: overlay;
+            background-color: #ece6e6;
+            height: 700px;
+            }
+            .chef-heading h2{
+                 font-family: Karla;
+                 text-transform: capitalize;
+                 font-size: 32px;
+                 font-weight: 700;
+                color: #5f5950;
+            }
+        .chef-heading p{
+           padding:10px 0px 0px 0px;
+        }
+        .chef-images img{
+            width:100%;
+        }
+        .square{
+            position: relative;
+        }
+        .chef-box {
+            padding: 20px 0px;
+            position: absolute;
+            left: 20px;
+            right:20px;
+            bottom: -80px;
+            background-color: white;
+            box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
+        }
+        .chef-box h4{
+                font-weight: 500;
+                font-size: 16px;
+                color: #6c665c;
+                font-family: "Poppins", sans-serif;
+                margin-top: 10px;
+            }
+        .chef-box span{
+            text-transform: capitalize;
+            font-style: italic;
+            font-size: 13px;
+            font-weight: 400;
+        }
+        .social-icon{
+            gap:10px;
+            margin-bottom: 5px;
+        }
+        .chef-icon{
+            color:#6c665c;
+        }
+        .chef-icon:hover{
+        color:#ffb03b;
+
+        }
+        .contact-heading h2{
+            font-family: Karla;
+                font-size: 32px;
+                font-weight: 700;
+                color: #5f5950;
+            }
+    .location iframe {
+        width: 100%;
+    }
+    .address-1{
+        gap:20px;
+    }
+    .address-content h4 {
+        font-size: 18px;
+        font-weight: 600;
+        color: #433f39;
+        font-family: Karla;
+    }
+    .address-content p {
+        font-size: 14px;
+        color: #7a7368;
+    }
+    .add-icon {
+        margin-top: 5px;
+        height: 44px;
+        width: 44px;
+        background-color:#fff6e8;
+        color:#ffb03b;
+        border-radius: 50px;
+        font-size: 24px;
+        padding: 10px 16px 10px 16px;
+    }
+    .add-icon:hover{
+        background-color: #ffb03b;
+        color:white;
+    }
+    .contact-address {
+        box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
+        padding: 30px;
+    }
+    .contact-form{
+            box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
+            padding: 30px;
+            background: #fff;
+    }
+    .form-control {
+         border-radius: 0px;
+    }
+    .form-control:focus {
+        box-shadow: none;
+    }
+    .footer{
+            background: #35322d;
+            padding: 30px 0;
+    }
+    .footer-heading h3{
+        font-size: 36px;
+        color: #ffb03b;
+        font-family: Karla;
+    }
+    .footer-heading p{
+            padding: 10px 0px;
+    }
+    .foot {
+        padding: 10px 12px;
+        margin-right: 10px;
+        background-color: #46423b;
+        border-radius: 31px;
+        color: white;
+        cursor: pointer;
+    }
+    .footer-icon {
+        padding: 10px 0px;
+    }
+     .foot:hover{
+        background-color: #ffb03b;
+     }
+     .design a{
+        color:#ffb03b;
+        text-decoration: none;
+     }
+     .copyright {
+        margin-top: 10px;
+    }
+    .design {
+        margin-top: 5px;
+    }
+    .add-icon-1 {
+        padding: 8px 11px 8px 11px;
+    }
+    @media only screen and (max-width: 768px){
+        .container{
+            overflow: hidden;
+        }
+        .navbar-toggler {
+         
+            color: white;
+             background-color: white;
+        }
+        a.navbar-brand {
+            font-size: 33px;
+        }
+        .btn {
+            margin-left: 10px;
+        }
+        li.nav-item {
+            font-size: 17px;
+            margin-left: 10px;
+        }
+        .enjoy-food h1 {
+            font-size: 33px;
+        }
+        .enjoy-food {
+            padding: 0px 10px;
+        }
+        .image-1 {
+            margin-top: 60px;
+        }
+        .image-2 {
+            margin-top: 60px;
+        }
+        .heading h2 {
+            font-size: 25px;
+        }
+        .heading p {
+            margin: 13px 27px;
+        }
+        .square-1 {
+            margin: 10px;
+        }
+        .square {
+            margin: 20px 5px;
+        }
+        .specail-highlight p {
+            width: 100%;
+            padding: 10px;
+        }
+        .special-list li {
+            font-size: 18px;
+        }
+        .indian-food {
+            margin-top: 30px;
+        }
+        .birthday-event h1 {
+            margin-top: 35px;
+        }
+        .birthday-event p {
+            width: 100%;
+            padding: 10px 0px;
+        }
+        .table-book h2 {
+            font-size: 42px;
+        }
+        .organize-event h2 {
+            font-size: 32px;
+        }
+        .table-book p {
+             width:100%;
+            padding: 10px;
+        }
+        .form-col {
+            flex: 0 0 100%;
+            margin-top: 15px;
+        }
+        .photos {
+            margin: 8px;
+        }
+        .chef-heading p {
+            padding: 10px;
+        }
+        .chef-box {
+            position: unset;
+        }
+       
+        .carousel-caption {
+            top: 0%;
+        }
+        .carousel-caption h1 {
+            font-size: 40px;
+        }
+        .carousel-caption h3 {
+            font-size: 16px;
+        }
+        .carousel-caption p {
+            font-size: 10px;
+            width: 63%; 
+        }
+        #our-chefs{
+            height:auto;
+            padding:50px 0px;
+        }
+        .menu-title-1 {
+            flex-wrap: wrap;
+        }
+}
+            
